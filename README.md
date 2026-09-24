@@ -4,9 +4,16 @@
 
 ### 🔭 What I do
 
-- ⚡ **AI inference** — LLM deployment & optimization on **MindSpore**, model compression with **Golden Stick**
+- ⚡ **AI inference** — LLM deployment & optimization on [MindSpore](https://gitcode.com/mindspore/mindspore), model compression with [Golden Stick](https://gitcode.com/mindspore/golden-stick)
 - 🧩 **Agentic RL** — training LLM agents with **verl** + **uni-agent**
 - 🛠️ **Side projects** — agent skills, e.g. [weather_skill](https://github.com/touch869/weather_skill) (sunset/sunrise glow probability forecast)
+
+### 🏗️ Things I've built
+
+| Project | About |
+|---|---|
+| [Golden Stick](https://gitcode.com/mindspore/golden-stick) | MindSpore model compression algorithm framework (contributor) |
+| [scsy-erp](https://github.com/touch869/scsy-erp) | Smart warehouse ERP — monolith edition |
 
 ### 🛠️ Stack
 
