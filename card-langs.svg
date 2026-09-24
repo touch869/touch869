@@ -5,9 +5,9 @@
     .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6edf3 }
     .legend { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
   </style>
-  <rect x="0.5" y="0.5" width="459" height="189" rx="6" fill="#0d1117" stroke="#30363d"/><text x="30" y="42" class="title">Top Languages</text><rect x="1.0" y="56" width="180.7" height="8" rx="2" fill="#3178c6"/><rect x="181.7" y="56" width="165.4" height="8" rx="2" fill="#3572A5"/><rect x="347.0" y="56" width="34.9" height="8" rx="2" fill="#238636"/><rect x="381.9" y="56" width="14.3" height="8" rx="2" fill="#b07219"/><rect x="396.2" y="56" width="12.6" height="8" rx="2" fill="#00ADD8"/><rect x="408.9" y="56" width="9.9" height="8" rx="2" fill="#dea584"/><rect x="418.7" y="56" width="9.1" height="8" rx="2" fill="#f1e05a"/><rect x="427.8" y="56" width="8.3" height="8" rx="2" fill="#f34b7d"/><rect x="18" y="90" width="10" height="10" rx="2" fill="#3178c6"/>
+  <rect x="0.5" y="0.5" width="459" height="189" rx="6" fill="#0d1117" stroke="#30363d"/><text x="30" y="42" class="title">Top Languages</text><rect x="1.0" y="56" width="180.7" height="8" rx="2" fill="#3178c6"/><rect x="181.7" y="56" width="165.4" height="8" rx="2" fill="#3572A5"/><rect x="347.1" y="56" width="34.9" height="8" rx="2" fill="#238636"/><rect x="381.9" y="56" width="14.3" height="8" rx="2" fill="#b07219"/><rect x="396.2" y="56" width="12.6" height="8" rx="2" fill="#00ADD8"/><rect x="408.9" y="56" width="9.9" height="8" rx="2" fill="#dea584"/><rect x="418.7" y="56" width="9.1" height="8" rx="2" fill="#f1e05a"/><rect x="427.8" y="56" width="8.3" height="8" rx="2" fill="#f34b7d"/><rect x="18" y="90" width="10" height="10" rx="2" fill="#3178c6"/>
       <text x="34" y="100" class="legend">TypeScript</text>
-      <text x="122" y="100" class="legend" style="fill:#9198a1">39.5%</text><rect x="228" y="90" width="10" height="10" rx="2" fill="#3572A5"/>
+      <text x="122" y="100" class="legend" style="fill:#9198a1">39.4%</text><rect x="228" y="90" width="10" height="10" rx="2" fill="#3572A5"/>
       <text x="244" y="100" class="legend">Python</text>
       <text x="332" y="100" class="legend" style="fill:#9198a1">36.1%</text><rect x="18" y="116" width="10" height="10" rx="2" fill="#238636"/>
       <text x="34" y="126" class="legend">Jupyter Notebook</text>
