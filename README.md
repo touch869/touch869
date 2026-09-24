@@ -8,14 +8,6 @@
 - 🧩 **Agentic RL** — training LLM agents with **verl** + **uni-agent**
 - 🛠️ **Side projects** — agent skills, e.g. [weather_skill](https://github.com/touch869/weather_skill) (sunset/sunrise glow probability forecast)
 
-### 🏗️ Things I've built
-
-| Project | About |
-|---|---|
-| [scsy-erp](https://github.com/touch869/scsy-erp) | Smart warehouse ERP — monolith edition |
-| [ScsyERP](https://github.com/touch869/ScsyERP) | Same system — Dubbo microservices split (20+ module repos) |
-| [ScsyERP-web](https://github.com/touch869/ScsyERP-web) ⭐5 | ERP frontend (Vue) |
-
 ### 🛠️ Stack
 
 `Python` · `Java/Spring` · `Go` · `MindSpore` · `verl` · `vLLM` · `Vue`
