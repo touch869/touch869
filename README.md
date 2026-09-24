@@ -1,25 +1,24 @@
-### 你好，我是 hangangqiang 👋
+### Hi, I'm hangangqiang 👋
 
-**杭州 · 后端出身，现专注 AI 基础设施**
+**Hangzhou · AI infrastructure**
 
-### 🎯 当前关注
+### 🔭 What I do
 
-- 🤖 **编码智能体** — 维护 [ZCode-CE](https://github.com/touch869/ZCode)，AI 编码工作台 ZCode 的社区版：移除遥测、接入 trycua/cua 开源 Computer Use、MIT 协议的 Office 文档能力
-- 🧠 **LLM 推理与训练** — vLLM / verl（RL for LLMs）/ MindSpore 生态
-- 📈 **AI 量化** — 关注 ai-hedge-fund、QuantDinger 等开源量化项目的实践
+- ⚡ **AI inference** — LLM deployment & optimization on **MindSpore**, model compression with **Golden Stick**
+- 🧩 **Agentic RL** — training LLM agents with **verl** + **uni-agent**
+- 🛠️ **Side projects** — agent skills, e.g. [weather_skill](https://github.com/touch869/weather_skill) (sunset/sunrise glow probability forecast)
 
-### 🏗️ 代表作品
+### 🏗️ Things I've built
 
-| 项目 | 说明 |
+| Project | About |
 |---|---|
-| [scsy-erp](https://github.com/touch869/scsy-erp) | 智能仓储 ERP · 单体版 |
-| [ScsyERP](https://github.com/touch869/ScsyERP) | 同一系统 · Dubbo 微服务拆分版（20+ 模块仓） |
-| [ScsyERP-web](https://github.com/touch869/ScsyERP-web) ⭐5 | ERP 前端（Vue） |
-| [weather_skill](https://github.com/touch869/weather_skill) | 晚霞 / 朝霞概率预测技能 |
+| [scsy-erp](https://github.com/touch869/scsy-erp) | Smart warehouse ERP — monolith edition |
+| [ScsyERP](https://github.com/touch869/ScsyERP) | Same system — Dubbo microservices split (20+ module repos) |
+| [ScsyERP-web](https://github.com/touch869/ScsyERP-web) ⭐5 | ERP frontend (Vue) |
 
-### 🛠️ 技术栈
+### 🛠️ Stack
 
-`Java/Spring` · `Python` · `Go` · `vLLM` · `verl` · `MindSpore` · `Vue`
+`Python` · `Java/Spring` · `Go` · `MindSpore` · `verl` · `vLLM` · `Vue`
 
 ---
 
