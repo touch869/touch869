@@ -21,5 +21,5 @@
 
 ---
 
-| ![stats](./card-stats.svg) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=touch869&layout=compact&hide_border=true&langs_count=8) |
+| ![stats](./card-stats.svg) | ![langs](./card-langs.svg) |
 |---|---|
