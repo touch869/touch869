@@ -12,8 +12,8 @@
 
 | Project | About |
 |---|---|
-| [Golden Stick](https://github.com/touch869/golden-stick) | MindSpore model compression algorithm framework (maintainer) |
 | [uni-agent](https://github.com/touch869/uni-agent) | Unified agent framework — building, running & training agents at scale (contributor) |
+| [Golden Stick](https://github.com/touch869/golden-stick) | MindSpore model compression algorithm framework (maintainer) |
 | [ScsyERP](https://github.com/touch869/ScsyERP) | Smart warehouse ERP — final consolidated state |
 
 ### 🛠️ Stack
