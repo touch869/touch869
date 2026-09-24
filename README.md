@@ -4,7 +4,7 @@
 
 ### 🔭 What I do
 
-- ⚡ **AI inference** — LLM deployment & optimization on [MindSpore](https://gitcode.com/mindspore/mindspore), model compression with [Golden Stick](https://gitcode.com/mindspore/golden-stick)
+- ⚡ **AI inference** — LLM deployment & optimization on [MindSpore](https://gitcode.com/mindspore/mindspore), model compression with [Golden Stick](https://github.com/touch869/golden-stick)
 - 🧩 **Agentic RL** — training LLM agents with **verl** + **uni-agent**
 - 🛠️ **Side projects** — agent skills, e.g. [weather_skill](https://github.com/touch869/weather_skill) (sunset/sunrise glow probability forecast)
 
@@ -12,7 +12,7 @@
 
 | Project | About |
 |---|---|
-| [Golden Stick](https://gitcode.com/mindspore/golden-stick) | MindSpore model compression algorithm framework (maintainer) |
+| [Golden Stick](https://github.com/touch869/golden-stick) | MindSpore model compression algorithm framework (maintainer) |
 | [ScsyERP](https://github.com/touch869/ScsyERP) | Smart warehouse ERP — final consolidated state |
 
 ### 🛠️ Stack
@@ -21,5 +21,5 @@
 
 ---
 
-| ![stats](./card-stats.svg) | ![langs](./card-langs.svg) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=touch869&show_icons=true&count_private=true&hide_border=true) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=touch869&layout=compact&hide_border=true&langs_count=8) |
 |---|---|
