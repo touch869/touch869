@@ -13,7 +13,7 @@
 | Project | About |
 |---|---|
 | [Golden Stick](https://gitcode.com/mindspore/golden-stick) | MindSpore model compression algorithm framework (maintainer) |
-| [scsy-erp](https://github.com/touch869/scsy-erp) | Smart warehouse ERP — monolith edition |
+| [ScsyERP](https://github.com/touch869/ScsyERP) | Smart warehouse ERP — final consolidated state |
 
 ### 🛠️ Stack
 
