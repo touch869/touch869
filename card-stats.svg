@@ -11,6 +11,6 @@
       <text x="255" y="85" class="label">Total Stars</text>
       <text x="255" y="107" class="value" style="font-size:19px">7</text><circle cx="23" cy="135" r="4" fill="#1f6feb"/>
       <text x="45" y="140" class="label">Followers</text>
-      <text x="45" y="162" class="value" style="font-size:19px">9</text><circle cx="233" cy="135" r="4" fill="#1f6feb"/>
+      <text x="45" y="162" class="value" style="font-size:19px">10</text><circle cx="233" cy="135" r="4" fill="#1f6feb"/>
       <text x="255" y="140" class="label">Member Since</text>
       <text x="255" y="162" class="value" style="font-size:19px">2018</text></svg>
