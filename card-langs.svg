@@ -5,20 +5,20 @@
     .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6edf3 }
     .legend { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
   </style>
-  <rect x="0.5" y="0.5" width="459" height="189" rx="6" fill="#0d1117" stroke="#30363d"/><text x="30" y="42" class="title">Top Languages</text><rect x="1.0" y="56" width="182.6" height="8" rx="2" fill="#3178c6"/><rect x="183.6" y="56" width="164.3" height="8" rx="2" fill="#3572A5"/><rect x="347.9" y="56" width="34.7" height="8" rx="2" fill="#238636"/><rect x="382.6" y="56" width="14.2" height="8" rx="2" fill="#b07219"/><rect x="396.8" y="56" width="12.5" height="8" rx="2" fill="#00ADD8"/><rect x="409.3" y="56" width="9.8" height="8" rx="2" fill="#dea584"/><rect x="419.1" y="56" width="8.9" height="8" rx="2" fill="#f1e05a"/><rect x="428.0" y="56" width="8.3" height="8" rx="2" fill="#f34b7d"/><rect x="18" y="90" width="10" height="10" rx="2" fill="#3178c6"/>
+  <rect x="0.5" y="0.5" width="459" height="189" rx="6" fill="#0d1117" stroke="#30363d"/><text x="30" y="42" class="title">Top Languages</text><rect x="1.0" y="56" width="220.9" height="8" rx="2" fill="#3178c6"/><rect x="221.9" y="56" width="139.7" height="8" rx="2" fill="#3572A5"/><rect x="361.6" y="56" width="29.3" height="8" rx="2" fill="#238636"/><rect x="390.9" y="56" width="12.0" height="8" rx="2" fill="#b07219"/><rect x="402.9" y="56" width="10.6" height="8" rx="2" fill="#00ADD8"/><rect x="413.5" y="56" width="9.9" height="8" rx="2" fill="#f1e05a"/><rect x="423.4" y="56" width="8.3" height="8" rx="2" fill="#dea584"/><rect x="431.6" y="56" width="7.0" height="8" rx="2" fill="#f34b7d"/><rect x="18" y="90" width="10" height="10" rx="2" fill="#3178c6"/>
       <text x="34" y="100" class="legend">TypeScript</text>
-      <text x="122" y="100" class="legend" style="fill:#9198a1">39.9%</text><rect x="228" y="90" width="10" height="10" rx="2" fill="#3572A5"/>
+      <text x="122" y="100" class="legend" style="fill:#9198a1">48.2%</text><rect x="228" y="90" width="10" height="10" rx="2" fill="#3572A5"/>
       <text x="244" y="100" class="legend">Python</text>
-      <text x="332" y="100" class="legend" style="fill:#9198a1">35.9%</text><rect x="18" y="116" width="10" height="10" rx="2" fill="#238636"/>
+      <text x="332" y="100" class="legend" style="fill:#9198a1">30.5%</text><rect x="18" y="116" width="10" height="10" rx="2" fill="#238636"/>
       <text x="34" y="126" class="legend">Jupyter Notebook</text>
-      <text x="122" y="126" class="legend" style="fill:#9198a1">7.6%</text><rect x="228" y="116" width="10" height="10" rx="2" fill="#b07219"/>
+      <text x="122" y="126" class="legend" style="fill:#9198a1">6.4%</text><rect x="228" y="116" width="10" height="10" rx="2" fill="#b07219"/>
       <text x="244" y="126" class="legend">Java</text>
-      <text x="332" y="126" class="legend" style="fill:#9198a1">3.1%</text><rect x="18" y="142" width="10" height="10" rx="2" fill="#00ADD8"/>
+      <text x="332" y="126" class="legend" style="fill:#9198a1">2.6%</text><rect x="18" y="142" width="10" height="10" rx="2" fill="#00ADD8"/>
       <text x="34" y="152" class="legend">Go</text>
-      <text x="122" y="152" class="legend" style="fill:#9198a1">2.7%</text><rect x="228" y="142" width="10" height="10" rx="2" fill="#dea584"/>
-      <text x="244" y="152" class="legend">Rust</text>
-      <text x="332" y="152" class="legend" style="fill:#9198a1">2.1%</text><rect x="18" y="168" width="10" height="10" rx="2" fill="#f1e05a"/>
-      <text x="34" y="178" class="legend">JavaScript</text>
-      <text x="122" y="178" class="legend" style="fill:#9198a1">1.9%</text><rect x="228" y="168" width="10" height="10" rx="2" fill="#f34b7d"/>
+      <text x="122" y="152" class="legend" style="fill:#9198a1">2.3%</text><rect x="228" y="142" width="10" height="10" rx="2" fill="#f1e05a"/>
+      <text x="244" y="152" class="legend">JavaScript</text>
+      <text x="332" y="152" class="legend" style="fill:#9198a1">2.2%</text><rect x="18" y="168" width="10" height="10" rx="2" fill="#dea584"/>
+      <text x="34" y="178" class="legend">Rust</text>
+      <text x="122" y="178" class="legend" style="fill:#9198a1">1.8%</text><rect x="228" y="168" width="10" height="10" rx="2" fill="#f34b7d"/>
       <text x="244" y="178" class="legend">C++</text>
-      <text x="332" y="178" class="legend" style="fill:#9198a1">1.8%</text></svg>
+      <text x="332" y="178" class="legend" style="fill:#9198a1">1.5%</text></svg>
